@@ -1,0 +1,30 @@
+.icon-wrapper {
+    position: relative;
+    float: left;
+}
+
+*.icon-blue {
+    color: #0088cc
+}
+
+*.icon-grey {
+    color: grey
+}
+
+i {
+    width: 57px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.badge {
+    background: Tomato;
+    width: auto;
+    height: auto;
+    margin: 0;
+    border-radius: 50%;
+    position: absolute;
+    top: -8px;
+    right: -2px;
+    padding: 5px;
+}
